@@ -34,3 +34,8 @@ Analyze mobile sales trends, customer ratings, payment methods, and brand perfor
 - Mobile_Sales_Dashboard.pbix
 - Mobile_Sales_Data.csv
 - dashboard_preview.jpg
+
+## Note
+
+The Power BI (.pbix) file is not publicly available.
+Please contact me for a walkthrough or discussion about the project.
